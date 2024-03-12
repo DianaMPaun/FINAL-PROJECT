@@ -1,3 +1,0 @@
-I conducted a survey where users were asked to rate 50 books on a scale of 1 to 5 based on whether they had read them. 
-Additionally, users were provided with the option to mark 'Not read' for books they hadn't yet read. 
-I utilized the responses from this survey as inputs in my recommendation model, enabling me to understand user preferences and generate personalized book recommendations.
